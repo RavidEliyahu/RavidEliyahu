@@ -5,6 +5,6 @@
 
 <div align="center">
   <a href="https://1999azzar.github.io/1999AZZAR/">
-  <img  src="https://github.com/RavidEliyahu/RavidEliyahu/resources/img/grid-snake.svg"
+  <img  src="https://github.com/RavidEliyahu/RavidEliyahu/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
