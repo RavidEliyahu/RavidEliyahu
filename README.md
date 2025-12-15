@@ -37,6 +37,3 @@
 <a href="mailto:ravid1233@gmail.com"><img src="https://img.shields.io/badge/-Mail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.facebook.com/ravid.eliyahu"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 <a href="https://www.instagram.com/ravid.eliyahu/"><img src="https://img.shields.io/badge/-Instgram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-
-![Profile views](https://gpvc.arturio.dev/RavidEliyahu)  
-
